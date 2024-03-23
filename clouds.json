@@ -1,0 +1,37 @@
+{
+    "PublicClouds":[
+        {
+            "name": "Amazon Web Services",
+            "shortname": "AWS",
+            "ReleasedOn": "March 14, 2006",
+            "CEO": "Andy Jassy",
+            "Services": [
+                "EC2",
+                "S3",
+                "RDS"
+            ]
+        },
+        {
+            "name": "Microsoft Azure",
+            "shortname": "Azure",
+            "ReleasedOn": "Februaru 1, 2010",
+            "CEO": "Satya Nadella",
+            "Services": [
+                "Azure SQL",
+                "App services",
+                "VM"
+            ]
+        },
+        {
+            "name": "Google Cloud",
+            "shortname": "GCP",
+            "ReleasedOn": "April 7, 2008",
+            "CEO": "Thomas Kurian",
+            "Services": [
+                "GKE",
+                "Compute engine",
+                "BigTable"
+            ]
+        }
+    ]
+}
